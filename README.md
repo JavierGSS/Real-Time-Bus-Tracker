@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+This project uses mapbox to track the bus route that connects MIT and Harvard.
 
 ## :sparkles: Features ##
 
@@ -58,11 +58,9 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- VS Code (https://code.visualstudio.com)
+- GitHub (https://www.github.com)
+- Mapbox (https://www.mapbox.com/)
 
 ## :white_check_mark: Requirements ##
 
