@@ -24,13 +24,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Real Time Bus Tracker 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -66,7 +59,7 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :blue_check_mark: Road to future improvements ##
+## :alien: Road to future improvements ##
 
 It would be nice to add some highlighting to the path described by the bus, and a Harvard image to signal the end of the itinerary.
 
