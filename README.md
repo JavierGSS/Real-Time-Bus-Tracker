@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-This project uses mapbox to track the bus route that connects MIT and Harvard.
+This project uses Mapbox to track the bus route that connects MIT and Harvard.
 
 ## :sparkles: Features ##
 
