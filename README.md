@@ -9,19 +9,19 @@
 <h1 align="center">Real Time Bus Tracker</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JavierGSS/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JavierGSS/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JavierGSS/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/JavierGSS/real-time-bus-tracker?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/JavierGSS/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/JavierGSS/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/JavierGSS/real-time-bus-tracker?color=56BEB8" /> -->
 </p>
 
 
@@ -32,20 +32,14 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/JavierGSS" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-This project uses Mapbox to track the bus route that connects MIT and Harvard.
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+This project uses Mapbox to track the bus route that connects MIT and Harvard. It includes popups on every bus station on the route, and and image of MIT that celebrates Pride Month.
 
 ## :rocket: Technologies ##
 
@@ -67,7 +61,7 @@ It would be nice to add some highlighting to the path described by the bus, and 
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/real-time-bus-tracker
+$ git clone https://github.com/JavierGSS/real-time-bus-tracker
 
 # Access
 $ cd real-time-bus-tracker
