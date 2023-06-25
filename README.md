@@ -39,7 +39,7 @@
 
 ## :dart: About ##
 
-This project uses Mapbox to track the bus route that connects MIT and Harvard. It includes popups on every bus station on the route, and and image of MIT that celebrates Pride Month.
+This project uses Mapbox to track the bus route that connects MIT and Harvard. It includes markers and popups on every bus station on the route, and and image of MIT that celebrates Pride Month.
 
 ## :rocket: Technologies ##
 
