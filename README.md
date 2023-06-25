@@ -48,6 +48,8 @@ The following tools were used in this project:
 - VS Code (https://code.visualstudio.com)
 - GitHub (https://www.github.com)
 - Mapbox (https://www.mapbox.com/)
+- Git (https://git-scm.com/)
+- Node (https://nodejs.org/en/)
 
 ## :white_check_mark: Requirements ##
 
