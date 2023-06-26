@@ -59,7 +59,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 It would be nice to add some highlighting to the path described by the bus, and a Harvard image to signal the end of the itinerary.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: How to run ##
 
 ```bash
 # Clone this project
